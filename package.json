@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-admin-template",
+  "name": "piton-wealth-dashboard",
   "private": true,
-  "description": "Admin dashboard template based on Gatsby with @paljs/ui component package",
+  "description": "Piton Wealth - Financial Admin dashboard based on Gatsby with @paljs/ui component package",
   "version": "0.1.0",
-  "author": "Ahmed Elywa",
+  "author": "Sean Mahoney | Rugged Coastal",
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "24.0.0",
     "@ckeditor/ckeditor5-react": "3.0.0",
