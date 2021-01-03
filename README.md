@@ -5,9 +5,9 @@ Admin dashboard template based on Gatsby with [@paljs/ui](https://github.com/pal
 #### Setup:
 
 ```
-git clone https://github.com/paljs/gatsby-admin-template.git
+git clone https://github.com/seanruggedcoastal/piton-gatsby.git
 
-cd gatsby-admin-template
+cd piton-gatsby
 
 yarn install
 
@@ -17,20 +17,14 @@ yarn dev
 #### Docker:
 
 ```
-git clone https://github.com/paljs/gatsby-admin-template.git
+git clone https://github.com/seanruggedcoastal/piton-gatsby.git
 
-cd gatsby-admin-template
+cd piton-gatsby
 
-docker build -t gatsby-admin-template
+docker build -t piton-gatsby
 
-docker run --rm -d -p 80:80 gatsby-admin-template
+docker run --rm -d -p 80:80 piton-gatsby
 ```
 
-![screenshot](./src/images/screenshot1.png)
 
-![screenshot](./src/images/screenshot2.png)
-
-![screenshot](./src/images/screenshot3.png)
-
-![screenshot](./src/images/screenshot4.png)
 "# piton-gatsby" 
